@@ -58,12 +58,12 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/books/";
               },
-            },{id: "dropdown-blog",
-              title: "blog",
+            },{id: "dropdown-home",
+              title: "home",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/blog/blog/";
+                window.location.href = "https://zjgcjy.top";
               },
             },{id: "post-a-post-with-plotly-js",
         
