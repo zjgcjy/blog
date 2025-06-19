@@ -26,7 +26,14 @@ latest_posts:
 
 This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/).
 
-Hi, this is former CTF player.
+Hi, this is my blog.
+
+Brief:
+
+- a computer-related major
+- a former CTF player
+- a salaryman
+- a single dog
 
 Language:
 
@@ -38,3 +45,4 @@ Interests:
 - Running
 - Photography
 - Anime
+- Music
