@@ -30,8 +30,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/anime/";
           },
-        },{id: "dropdown-b站",
-              title: "B站",
+        },{id: "dropdown-b站主页",
+              title: "B站主页",
               description: "",
               section: "Dropdown",
               handler: () => {
