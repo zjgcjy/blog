@@ -1,7 +1,7 @@
 ---
 layout: book-shelf
 title: Anime
-permalink: /books/
+permalink: /anime/
 nav: true
 nav_order: 4
 collection: books

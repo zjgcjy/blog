@@ -1,8 +1,8 @@
 ---
 layout: page
-title: gallery
+title: Gallery
 permalink: /gallery/
-description: A growing collection of your cool projects.
+description: Collection of my images.
 nav: true
 nav_order: 2
 display_categories: [work, fun]
