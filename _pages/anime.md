@@ -2,8 +2,9 @@
 layout: book-shelf
 title: Anime
 permalink: /anime/
+description: 二次元ってわかりますか？
 nav: true
-nav_order: 4
+nav_order: 3
 collection: books
 ---
 

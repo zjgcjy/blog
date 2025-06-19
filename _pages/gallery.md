@@ -2,7 +2,7 @@
 layout: page
 title: Gallery
 permalink: /gallery/
-description: Collection of my images.
+description: Photos I’ve taken.
 nav: true
 nav_order: 2
 display_categories: [work, fun]
