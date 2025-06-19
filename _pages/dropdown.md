@@ -5,8 +5,8 @@ nav: true
 nav_order: 5
 dropdown: true
 children:
-  - title: bookshelf
-    permalink: /books/
+  - title: cv
+    permalink: /cv/
   - title: divider
   - title: home
     permalink: https://zjgcjy.top
