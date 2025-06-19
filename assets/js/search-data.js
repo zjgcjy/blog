@@ -18,14 +18,14 @@ ninja.data = [{
           },
         },{id: "nav-gallery",
           title: "Gallery",
-          description: "Collection of my images.",
+          description: "Photos I’ve taken.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/blog/gallery/";
           },
         },{id: "nav-anime",
           title: "Anime",
-          description: "",
+          description: "二次元ってわかりますか？",
           section: "Navigation",
           handler: () => {
             window.location.href = "/blog/anime/";
@@ -42,7 +42,7 @@ ninja.data = [{
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "https://zjgcjy.github.io/run";
+                window.location.href = "https://zjgcjy.github.io/Run";
               },
             },{id: "post-a-post-with-plotly-js",
         
@@ -379,11 +379,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/blog/books/the_godfather/";
-            },},{id: "news-achieved-bachelor-s-degree-in-information-security-at-china-university-of-mining-and-technology",
-          title: 'Achieved Bachelor’s degree in Information Security at China University of Mining and Technology....',
+            },},{id: "news-achieved-bachelor-s-degree-in-information-security-at-cumt",
+          title: 'Achieved Bachelor’s degree in Information Security at CUMT.',
           description: "",
-          section: "News",},{id: "news-achieved-master-s-degree-in-cyberspace-security-at-university-of-chinese-academy-of-sciences",
-          title: 'Achieved Master’s degree in Cyberspace Security at University of Chinese Academy of Sciences....',
+          section: "News",},{id: "news-achieved-master-s-degree-in-cyberspace-security-at-ucas",
+          title: 'Achieved Master’s degree in Cyberspace Security at UCAS.',
           description: "",
           section: "News",},{id: "news-joined-tencent-and-started-working-on-sparkles-smile",
           title: 'Joined Tencent and started working on! :sparkles: :smile:',
