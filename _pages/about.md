@@ -9,7 +9,7 @@ profile:
   image: anime-nichijou.gif
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>zjgcjy@outlook.com</p>
+    <p>mail me: zjgcjy@outlook.com</p>
 
 social: false # includes social icons at the bottom of the page
 
