@@ -6,7 +6,7 @@ subtitle: <font color=grey><i>"Attempt not more than you can master. Yet let no 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: anime-nichijou.gif
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>zjgcjy@outlook.com</p>
