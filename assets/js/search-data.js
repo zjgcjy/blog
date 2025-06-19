@@ -30,12 +30,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/anime/";
           },
-        },{id: "dropdown-cv",
-              title: "cv",
+        },{id: "dropdown-b站",
+              title: "B站",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/blog/cv/";
+                window.location.href = "https://space.bilibili.com/348667282";
               },
             },{id: "dropdown-running",
               title: "Running",
