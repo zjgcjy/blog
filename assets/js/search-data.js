@@ -4,21 +4,21 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/blog/";
     },
   },{id: "nav-blog",
-          title: "blog",
+          title: "Blog",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/blog/posts/index.html";
           },
         },{id: "nav-gallery",
-          title: "gallery",
-          description: "A growing collection of your cool projects.",
+          title: "Gallery",
+          description: "Collection of my images.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/blog/gallery/";
@@ -28,7 +28,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/blog/books/";
+            window.location.href = "/blog/anime/";
           },
         },{id: "dropdown-cv",
               title: "cv",
@@ -37,12 +37,12 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/cv/";
               },
-            },{id: "dropdown-home",
-              title: "home",
+            },{id: "dropdown-running",
+              title: "Running",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "https://zjgcjy.top";
+                window.location.href = "https://zjgcjy.github.io/run";
               },
             },{id: "post-a-post-with-plotly-js",
         
