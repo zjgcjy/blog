@@ -14,7 +14,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/blog/posts/index.html";
+            window.location.href = "/blog/blog/";
           },
         },{id: "nav-gallery",
           title: "Gallery",
@@ -379,16 +379,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/blog/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-achieved-bachelor-s-degree-in-information-security-at-china-university-of-mining-and-technology",
+          title: 'Achieved Bachelor’s degree in Information Security at China University of Mining and Technology....',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-achieved-master-s-degree-in-cyberspace-security-at-university-of-chinese-academy-of-sciences",
+          title: 'Achieved Master’s degree in Cyberspace Security at University of Chinese Academy of Sciences....',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/blog/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-joined-tencent-and-started-working-on-sparkles-smile",
+          title: 'Joined Tencent and started working on! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
