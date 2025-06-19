@@ -9,4 +9,4 @@ collection: books
 
 > Animes
 
-## Animes that I am reading, have read, or will read
+## Animes that I have watched, or will watch

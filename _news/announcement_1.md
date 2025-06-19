@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2019-06-30 12:00:00+0800
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Achieved Bachelor's degree in Information Security at China University of Mining and Technology.
