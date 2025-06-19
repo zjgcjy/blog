@@ -7,7 +7,7 @@ subtitle: <font color=grey><i>"Attempt not more than you can master. Yet let no 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>zjgcjy@outlook.com</p>
 
@@ -24,4 +24,17 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Test. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/).
+This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/).
+
+Hi, this is former CTF player.
+
+Language:
+
+- C
+- Python
+
+Interests:
+
+- Running
+- Photography
+- Anime

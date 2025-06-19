@@ -5,8 +5,8 @@ nav: true
 nav_order: 4
 dropdown: true
 children:
-  - title: cv
-    permalink: /cv/
+  - title: B站
+    permalink: https://space.bilibili.com/348667282
   - title: divider
   - title: Running
     permalink: https://zjgcjy.github.io/Run
