@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Achieved Bachelor's degree in Information Security at CUMT.
+Obtained Bachelor's degree in Information Security at CUMT.

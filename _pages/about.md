@@ -24,21 +24,23 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/).
+This theme is set up to use [Font Awesome icons](https://fontawesome.com/).
 
-Hi, this is my blog.
+Hi, Welcome to my blog. This blog primarily collects some articles, photos and [anime series](/anime.html).
 
-Brief:
+Brief self-introduction:
 
 - a computer-related major
 - a former CTF player
 - a salaryman
 - a single dog
 
-Language:
+Language & Tech stack:
 
-- C
-- Python
+- 中文(native)
+- Python/C
+- Reverse engineering
+- Backend development(client)
 
 Interests:
 

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Achieved Master's degree in Cyberspace Security at UCAS.
+Obtained Master's degree in Cybersecurity at UCAS.
