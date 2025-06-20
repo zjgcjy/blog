@@ -9,6 +9,6 @@ collection: books
 ---
 
 > 「日々私たちが過ごしている日常は、実は、奇跡の連続なのかもしれない。」
-> <br><span style="margin-right:80px;">－－ 日常</span>
+> <div style="text-align:right; padding-right:80px;">－－ 日常</div>
 
 ## Animes List
