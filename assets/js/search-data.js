@@ -434,27 +434,6 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/blog/projects/9_project/";
             },},{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%7A%6A%67%63%6A%79@%6F%75%74%6C%6F%6F%6B.%63%6F%6D", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/blog/feed.xml", "_blank");
-        },
-      },{
-        id: 'social-spotify',
-        title: 'Spotify',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://open.spotify.com/user/d1yzx08xja9zqsx9wi34yhyj0", "_blank");
-        },
-      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
