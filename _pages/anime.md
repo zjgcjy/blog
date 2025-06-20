@@ -1,6 +1,6 @@
 ---
 layout: book-shelf
-title: Anime
+title: アニメ
 permalink: /anime/
 description: 二次元ってわかりますか？
 nav: true
@@ -9,6 +9,6 @@ collection: books
 ---
 
 > 「日々私たちが過ごしている日常は、実は、奇跡の連続なのかもしれない。」
->                                                       －－ 日常
+> <span style="margin-left:80px;">－－ 日常</span>
 
 ## Animes List
