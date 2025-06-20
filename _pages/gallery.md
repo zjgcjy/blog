@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gallery
+title: 相册
 permalink: /gallery/
 description: Photos I’ve taken.
 nav: true

@@ -26,7 +26,7 @@ latest_posts:
 
 This theme is set up to use [Font Awesome icons](https://fontawesome.com/).
 
-Hi, Welcome to my blog. This blog primarily collects some articles, photos and [anime series](/anime.html).
+Hi, Welcome to my blog. This blog primarily collects some articles, photos and [anime series](/blog/anime/).
 
 Brief self-introduction:
 
