@@ -23,8 +23,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/gallery/";
           },
-        },{id: "nav-anime",
-          title: "Anime",
+        },{id: "nav-アニメ",
+          title: "アニメ",
           description: "二次元ってわかりますか？",
           section: "Navigation",
           handler: () => {
