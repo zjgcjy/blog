@@ -352,11 +352,11 @@ ninja.data = [{
             window.location.href = "/blog/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-godfather",
+      },{id: "anime-the-godfather",
           title: 'The Godfather',
           description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/blog/books/the_godfather/";
+          section: "Anime",handler: () => {
+              window.location.href = "/blog/anime/the_godfather/";
             },},{id: "news-obtained-bachelor-s-degree-in-information-security-at-cumt",
           title: 'Obtained Bachelor’s degree in Information Security at CUMT.',
           description: "",
