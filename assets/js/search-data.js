@@ -357,11 +357,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/blog/books/the_godfather/";
-            },},{id: "news-achieved-bachelor-s-degree-in-information-security-at-cumt",
-          title: 'Achieved Bachelor’s degree in Information Security at CUMT.',
+            },},{id: "news-obtained-bachelor-s-degree-in-information-security-at-cumt",
+          title: 'Obtained Bachelor’s degree in Information Security at CUMT.',
           description: "",
-          section: "News",},{id: "news-achieved-master-s-degree-in-cyberspace-security-at-ucas",
-          title: 'Achieved Master’s degree in Cyberspace Security at UCAS.',
+          section: "News",},{id: "news-obtained-master-s-degree-in-cybersecurity-at-ucas",
+          title: 'Obtained Master’s degree in Cybersecurity at UCAS.',
           description: "",
           section: "News",},{id: "news-joined-tencent-and-started-working-on-sparkles-smile",
           title: 'Joined Tencent and started working on! :sparkles: :smile:',
