@@ -144,7 +144,7 @@ collections:
     defaults:
       layout: post
     output: true
-  projects:
+  gallery:
     output: true
 
 # -----------------------------------------------------------------------------

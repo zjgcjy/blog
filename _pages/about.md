@@ -24,8 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-This theme is set up to use [Font Awesome icons](https://fontawesome.com/).
-
 Hi, Welcome to my blog. This blog primarily collects some articles, photos and [anime series](/blog/anime/).
 
 Brief self-introduction:
@@ -48,3 +46,5 @@ Interests:
 - Photography
 - Anime
 - Music
+
+*This theme is set up to use [Font Awesome icons](https://fontawesome.com/).*
