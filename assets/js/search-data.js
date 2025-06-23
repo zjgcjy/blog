@@ -357,6 +357,26 @@ ninja.data = [{
           description: "",
           section: "Anime",handler: () => {
               window.location.href = "/blog/anime/the_godfather/";
+            },},{id: "gallery-测试1",
+          title: '测试1',
+          description: "with background image",
+          section: "Gallery",handler: () => {
+              window.location.href = "/blog/gallery/1_project/";
+            },},{id: "gallery-project-3-with-very-long-name",
+          title: 'project 3 with very long name',
+          description: "a project that redirects to another website",
+          section: "Gallery",handler: () => {
+              window.location.href = "/blog/gallery/3_project/";
+            },},{id: "gallery-project-5",
+          title: 'project 5',
+          description: "a project with a background image",
+          section: "Gallery",handler: () => {
+              window.location.href = "/blog/gallery/5_project/";
+            },},{id: "gallery-project-9",
+          title: 'project 9',
+          description: "another project with an image 🎉",
+          section: "Gallery",handler: () => {
+              window.location.href = "/blog/gallery/9_project/";
             },},{id: "news-obtained-bachelor-s-degree-in-information-security-at-cumt",
           title: 'Obtained Bachelor’s degree in Information Security at CUMT.',
           description: "",
@@ -366,27 +386,7 @@ ninja.data = [{
           section: "News",},{id: "news-joined-tencent-and-started-working-on-sparkles-smile",
           title: 'Joined Tencent and started working on! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/blog/projects/1_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/blog/projects/3_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/blog/projects/5_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/blog/projects/9_project/";
-            },},{
+          section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
